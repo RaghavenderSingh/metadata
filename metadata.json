@@ -1,0 +1,12 @@
+{
+    "name": "HyperSol",
+    "symbol": "SYMBOL",
+    "description": "Testing",
+    "image": "https://drive.google.com/file/d/17yNjfKd7DvU4MO9JONbjKAZGcoFLf4_G/view?usp=sharing",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Your Category"
+      }
+    ]
+  }
