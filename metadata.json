@@ -1,12 +1,6 @@
 {
-    "name": "HyperSol",
-    "symbol": "SYMBOL",
+    "name": "Hyper",
+    "symbol": "HYP",
     "description": "Testing",
-    "image": "https://drive.google.com/file/d/17yNjfKd7DvU4MO9JONbjKAZGcoFLf4_G/view?usp=sharing",
-    "attributes": [
-      {
-        "trait_type": "Category",
-        "value": "Your Category"
-      }
-    ]
+    "image": "https://pub-e3226bfef84b4388b5d57a8424ad3fc9.r2.dev/IMG_4414.jpg"
   }
